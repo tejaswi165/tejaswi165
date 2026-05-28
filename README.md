@@ -1,5 +1,6 @@
 <!--Banner-->
-![SumitSartale Banner Image](./banner.png)
+![SumitSartale Banner Image](<img width="2000" height="600" alt="Black Minimalist Linkedin Banner" src="https://github.com/user-attachments/assets/0b819cf0-77e5-4727-8bb4-cc7437ea157c" />
+)
 
 <!--Night Owl image-->
 <div>
@@ -7,7 +8,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sumit Sartale!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Tejaswi.Addanki!
 *Data Scientist & AI Engineer*
 <br />
 
